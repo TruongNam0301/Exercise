@@ -1,0 +1,8 @@
+.slide-picture{
+    width: 100%;
+    height: 650px;
+    background-image: url(./picture/home1-slider1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-color: #fff;
+}
